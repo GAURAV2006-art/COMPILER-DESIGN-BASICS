@@ -72,3 +72,7 @@ Static Analysis and Linters: Tools that check your code for bugs before you run 
 
 Next Steps (Future Scope): While this program serves as a strong educational model, a production-level lexer would need to handle more complex scenarios, such as detecting string literals (text inside quotes " "), handling comments (// or /* ... */), and tracking line numbers to provide useful error messages during compilation.
 
+*OUTPUT*:-
+
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/15090271-c893-420f-af9a-db5b6d30d878" />
+
